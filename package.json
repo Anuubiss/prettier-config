@@ -1,5 +1,5 @@
 {
-  "name": "@AndreiTudor/prettier-config",
+  "name": "@Anuubiss/prettier-config",
   "version": "1.0.0",
   "description": "Prettier Config",
   "main": "index.json",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-name-here/prettier-config"
+    "url": "https://github.com/Anuubiss/prettier-config"
   },
-  "homepage": "https://github.com/your-name-here/prettier-config"
+  "homepage": "https://github.com/Anuubiss/prettier-config"
 }
